@@ -127,5 +127,5 @@ social:
 highlight_name: true
 ---
 
-Zhihan Gao is currently pursuing a PhD in Computer Science and Engineering at The Hong Kong University of Science and Technology, advised by Professor Dit-Yan Yeung. He holds a Bachelor of Science degree in Physics from Peking University.
+Zhihan Gao is currently pursuing a PhD in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), advised by [Prof. Dit-Yan Yeung](https://sites.google.com/view/dyyeung/). He holds a Bachelor of Science degree in Physics from [Peking University](https://www.pku.edu.cn/).
 {style="text-align: justify;"}
