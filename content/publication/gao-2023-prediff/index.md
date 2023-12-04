@@ -63,7 +63,7 @@ url_video: 'https://recorder-v3.slideslive.com/#/share?share=89506&s=2038753d-75
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Overview of PreDiff inference with knowledge alignment.'
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
