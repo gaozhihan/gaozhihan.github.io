@@ -236,7 +236,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to contact me via email.
+        If you have any other questions or would like to discuss opportunities to work together, please don't hesitate to contact me.
       # Contact (add or remove contact options as necessary)
       email: zhihan.gao@connect.ust.hk
       # phone: 888 888 88 88
@@ -290,7 +290,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
