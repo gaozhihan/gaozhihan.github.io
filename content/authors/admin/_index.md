@@ -38,10 +38,10 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: The Hong Kong University of Science and Technology
-      year: 2016
+      year: 2016 - present
     - course: BSc in Physics
       institution: Peking University
-      year: 2012
+      year: 2012 - 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
