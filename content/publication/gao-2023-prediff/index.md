@@ -32,7 +32,7 @@ publishDate: '2023-12-10T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Thirty-seventh Conference on Neural Information Processing Systems*
+publication: In *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)*
 publication_short: In *NeurIPS 2023*
 
 abstract: Earth system forecasting has traditionally relied on complex physical models that are computationally expensive and require significant domain expertise. In the past decade, the unprecedented increase in spatiotemporal Earth observation data has enabled data-driven forecasting models using deep learning techniques. These models have shown promise for diverse Earth system forecasting tasks but either struggle with handling uncertainty or neglect domain-specific prior knowledge, resulting in averaging possible futures to blurred forecasts or generating physically implausible predictions. To address these limitations, we propose a *two-stage pipeline* for probabilistic spatiotemporal forecasting. 1) We develop *PreDiff*, a conditional latent diffusion model capable of probabilistic forecasts. 2) We incorporate an explicit knowledge alignment mechanism to align forecasts with domain-specific physical constraints. This is achieved by estimating the deviation from imposed constraints at each denoising step and adjusting the transition distribution accordingly. We conduct empirical studies on two datasets, *N*-body MNIST, a synthetic dataset with chaotic behavior, and SEVIR, a real-world precipitation nowcasting dataset. Specifically, we impose the law of conservation of energy in *N*-body MNIST and anticipated precipitation intensity in SEVIR. Experiments demonstrate the effectiveness of PreDiff in handling uncertainty, incorporating domain-specific prior knowledge, and generating forecasts that exhibit high operational utility. 
@@ -40,7 +40,7 @@ abstract: Earth system forecasting has traditionally relied on complex physical 
 # Summary. An optional shortened abstract.
 summary: We introduce a two-stage pipeline for probabilistic precipitation nowcasting. 1) We develop a latent diffusion model PreDiff. (2) We incorporate an auxiliary knowledge alignment mechanism, allowing the integration of domain expertise.
 
-tags: [Machine Learning for Earth Science,Spatiotemporal Forecasting,Generative Models,Diffusion Models]
+tags: [Machine Learning for Earth Science, Spatiotemporal Forecasting, Generative Models, Diffusion Models]
 
 # Display this page in the Featured widget?
 featured: true
@@ -82,7 +82,7 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -90,4 +90,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
