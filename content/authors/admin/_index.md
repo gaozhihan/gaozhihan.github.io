@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: The Hong Kong University of Science and Technology
-      year: 2016 - present
+      year: 2016 - 2024
     - course: BSc in Physics
       institution: Peking University
       year: 2012 - 2016
