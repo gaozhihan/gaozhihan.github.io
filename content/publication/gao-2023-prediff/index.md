@@ -64,7 +64,7 @@ url_video: 'https://recorder-v3.slideslive.com/#/share?share=89506&s=2038753d-75
 image:
   caption: 'Overview of PreDiff inference with knowledge alignment.'
   focal_point: 'Center'
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
