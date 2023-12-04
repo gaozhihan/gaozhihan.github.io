@@ -237,7 +237,7 @@ sections:
       text: |-
         If you have any other questions or would like to discuss opportunities to work together, please don't hesitate to contact me.
       # Contact (add or remove contact options as necessary)
-      email: zhihan.gao@connect.ust.hk
+      # email: zhihan.gao@connect.ust.hk
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -256,10 +256,10 @@ sections:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: twitter
-          link: 'https://twitter.com/Zhihan_Gao'
+        - icon: envelope
+          icon_pack: fas
+          name: Email
+          link: 'mailto:zhihan.gao@connect.ust.hk'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
@@ -268,18 +268,22 @@ sections:
         #   icon_pack: fas
         #   name: Zoom Me
         #   link: 'https://zoom.com'
-        - icon: github
-          icon_pack: fab
-          name: Github
-          link: 'https://github.com/gaozhihan'
         - icon: google-scholar
           icon_pack: ai
           name: Google Scholar
           link: 'https://scholar.google.com/citations?user=P6ACUAUAAAAJ'
+        - icon: github
+          icon_pack: fab
+          name: Github
+          link: 'https://github.com/gaozhihan'
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn
           link: 'https://www.linkedin.com/in/zhihan-gao-4224a8293/'
+        - icon: twitter
+          icon_pack: fab
+          name: twitter
+          link: 'https://twitter.com/Zhihan_Gao'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
