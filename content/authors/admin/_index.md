@@ -90,7 +90,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    # link: '/#contact'
+    link: 'mailto:zhihan.gao@connect.ust.hk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Zhihan_Gao
