@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Science and Engineering
       institution: The Hong Kong University of Science and Technology
       year: 2016 - 2024
     - course: BSc in Physics
@@ -92,23 +92,9 @@ social:
     icon_pack: fas
     # link: '/#contact'
     link: 'mailto:zhihan.gao@connect.ust.hk'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Zhihan_Gao
-    label: Twitter
-    # display:
-    #   header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=P6ACUAUAAAAJ
-  # - icon: skype
-  #   icon_pack: fab
-  #   name: Skype Me
-  #   link: 'skype:echo123?call'
-  # - icon: video
-  #   icon_pack: fas
-  #   name: Zoom Me
-  #   link: 'https://zoom.com'
   - icon: github
     icon_pack: fab
     name: Github
@@ -117,6 +103,20 @@ social:
     icon_pack: fab
     name: LinkedIn
     link: https://www.linkedin.com/in/zhihan-gao-4224a8293/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Zhihan_Gao
+    label: Twitter
+    # display:
+    #   header: true
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: video
+  #   icon_pack: fas
+  #   name: Zoom Me
+  #   link: 'https://zoom.com'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -128,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Zhihan Gao is currently pursuing a PhD in Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), advised by [Prof. Dit-Yan Yeung](https://sites.google.com/view/dyyeung/). He holds a Bachelor of Science degree in Physics from [Peking University](https://www.pku.edu.cn/).
+I'm currently a PhD candidate in the Department of Computer Science and Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Prof. Dit-Yan Yeung](https://sites.google.com/view/dyyeung/). I obtained my Bachelor of Science degree in Physics from [Peking University](https://www.pku.edu.cn/).
 {style="text-align: justify;"}
