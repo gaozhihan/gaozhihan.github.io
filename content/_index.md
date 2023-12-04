@@ -201,7 +201,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-  - id: featured
+  - id: publications
     content:
       title: Publications
       text: |-
@@ -215,16 +215,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
@@ -236,7 +236,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please feel free to contact me via email.
       # Contact (add or remove contact options as necessary)
       email: zhihan.gao@connect.ust.hk
       # phone: 888 888 88 88
