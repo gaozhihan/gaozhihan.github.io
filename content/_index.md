@@ -282,7 +282,7 @@ sections:
           link: 'https://www.linkedin.com/in/zhihan-gao-4224a8293/'
         - icon: twitter
           icon_pack: fab
-          name: twitter
+          name: Twitter
           link: 'https://twitter.com/Zhihan_Gao'
       # Automatically link email and phone or display as text?
       autolink: true
