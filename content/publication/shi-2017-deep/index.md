@@ -1,5 +1,5 @@
 ---
-title: 'Deep learning for precipitation nowcasting: A benchmark and a new model'
+title: 'Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -60,7 +60,7 @@ url_poster: 'https://sxjscience.github.io/data/nips2017_hko7_poster.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Learned connection structure of different layers in the TrajGRU.'
+  caption: 'Learned connection structure of different layers in the TrajGRU model.'
   focal_point: 'Center'
   preview_only: false
 
