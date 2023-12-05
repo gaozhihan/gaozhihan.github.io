@@ -40,7 +40,12 @@ abstract: Earth system forecasting has traditionally relied on complex physical 
 # Summary. An optional shortened abstract.
 summary: We introduce a two-stage pipeline for probabilistic precipitation nowcasting. 1) We develop a latent diffusion model PreDiff. (2) We incorporate an auxiliary knowledge alignment mechanism, allowing the integration of domain expertise.
 
-tags: [Machine Learning for Earth Science, Spatiotemporal Forecasting, Generative Models, Diffusion Models]
+tags: 
+- Machine Learning for Earth Science
+- Precipitation Nowcasting
+- Spatiotemporal Forecasting
+- Generative Models
+- Diffusion Models
 
 # Display this page in the Featured widget?
 featured: true

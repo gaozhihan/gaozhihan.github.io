@@ -38,7 +38,11 @@ abstract: Conventionally, Earth system (e.g., weather and climate) forecasting r
 # Summary. An optional shortened abstract.
 summary: We propose Earthformer with novel generic building blocks "Cuboid Attention" to explore the design of space-time attention for Earth system forecasting problems, and achieve SOTA performance on two synthetic datasets and two real-world benchmarks.
 
-tags: [Machine Learning for Earth Science, Spatiotemporal Forecasting, Transformers]
+tags: 
+- Machine Learning for Earth Science
+- Precipitation Nowcasting
+- Spatiotemporal Forecasting
+- Transformers
 
 # Display this page in the Featured widget?
 featured: true
