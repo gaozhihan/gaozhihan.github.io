@@ -233,11 +233,11 @@ sections:
     id: contact
     content:
       title: Contact
-      # subtitle:
-      # text: |-
-      #   If you have any other questions or would like to discuss opportunities to work together, please don't hesitate to contact me.
+      subtitle:
+      text: |-
+        If you have any other questions or would like to discuss opportunities to work together, please don't hesitate to contact me.
       # # Contact (add or remove contact options as necessary)
-      # email: zhihan.gao@connect.ust.hk
+      email: zhihan.gao@connect.ust.hk
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
