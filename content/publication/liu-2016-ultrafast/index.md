@@ -26,11 +26,10 @@ publication_types: ["article-journal"]
 publication: "2D Materials"
 publication_short: "2D Materials"
 
-abstract: We investigate the dynamical formation of an exciton from photo-excited electron-hole plasma and
-its subsequent decay dynamics in monolayer MoS2 grown by chemical vapor deposition (CVD) using ultrafast pump and terahertz probe spectroscopy. Different photo-excited electron-hole states are resolved based on their distinct responses to THz photon and decay lifetimes. The observed transient THz transmission can be fitted with two decay components, a fast component with a decay lifetime of 20 ps, which is attributed to the exciton lifetime, including its formation and subsequent intra-exciton relaxation; a slow component with an extremely long decay lifetime of several ns, possibly due to a long-lived dark exciton state. The relaxation dynamics are further supported by temperature and pump-fluence-dependent studies of the decay time constants. The sign of the transient THz observed in this experiment is the opposite of that measured in a recent parallel transient THz work on MoS2. The observed decay dynamics are also different, and the possible reasons for these discrepancies are discussed.
+abstract: We investigate the dynamical formation of an exciton from photo-excited electron-hole plasma and its subsequent decay dynamics in monolayer MoS2 grown by chemical vapor deposition (CVD) using ultrafast pump and terahertz probe spectroscopy. Different photo-excited electron-hole states are resolved based on their distinct responses to THz photon and decay lifetimes. The observed transient THz transmission can be fitted with two decay components, a fast component with a decay lifetime of 20 ps, which is attributed to the exciton lifetime, including its formation and subsequent intra-exciton relaxation; a slow component with an extremely long decay lifetime of several ns, possibly due to a long-lived dark exciton state. The relaxation dynamics are further supported by temperature and pump-fluence-dependent studies of the decay time constants. The sign of the transient THz observed in this experiment is the opposite of that measured in a recent parallel transient THz work on MoS2. The observed decay dynamics are also different, and the possible reasons for these discrepancies are discussed.
 
 # Summary. An optional shortened abstract.
-# summary: 
+# summary: ""
 
 tags:
 - Ultrafast Terahertz
