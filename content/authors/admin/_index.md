@@ -21,7 +21,7 @@ role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Hong Kong University of Science and Technology (HKUST)
+  - name: The Hong Kong University of Science and Technology
     url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,10 +37,10 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science and Engineering
-      institution: The Hong Kong University of Science and Technology
+      institution: The Hong Kong University of Science and Technology (HKUST)
       year: 2016 - 2024
     - course: BSc in Physics
-      institution: Peking University
+      institution: Peking University (PKU)
       year: 2012 - 2016
 
 # Skills
