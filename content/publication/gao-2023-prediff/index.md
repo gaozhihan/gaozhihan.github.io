@@ -63,6 +63,7 @@ url_poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72200.png'
 # url_slides: ''
 # url_source: ''
 url_video: 'https://recorder-v3.slideslive.com/#/share?share=89506&s=2038753d-7593-4008-8aec-08ec37204769'
+url_blog: 'https://www.amazon.science/blog/making-deep-learning-practical-for-earth-system-forecasting'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

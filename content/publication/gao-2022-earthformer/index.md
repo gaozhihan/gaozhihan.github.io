@@ -60,6 +60,7 @@ url_poster: 'https://earthformer.s3.amazonaws.com/docs/Earthformer_poster_NeurIP
 # url_slides: ''
 # url_source: ''
 url_video: 'https://slideslive.com/38995604/earthformer-exploring-spacetime-transformers-for-earth-system-forecasting'
+url_blog: 'https://www.amazon.science/blog/making-deep-learning-practical-for-earth-system-forecasting'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
