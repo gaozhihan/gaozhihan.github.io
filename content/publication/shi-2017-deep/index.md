@@ -38,7 +38,11 @@ abstract: With the goal of making high-resolution forecasts of regional rainfall
 # Summary. An optional shortened abstract.
 summary: We propose Earthformer with novel generic building blocks "Cuboid Attention" to explore the design of space-time attention for Earth system forecasting problems, and achieve SOTA performance on two synthetic datasets and two real-world benchmarks.
 
-tags: [Machine Learning for Earth Science, Spatiotemporal Forecasting]
+tags:
+- Machine Learning for Earth Science
+- Precipitation Nowcasting
+- Spatiotemporal Forecasting
+- Dataset
 
 # Display this page in the Featured widget?
 featured: false
