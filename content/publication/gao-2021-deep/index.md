@@ -36,8 +36,7 @@ publishDate: "2021-08-20T00:00:00Z"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote
-  Sensing, Climate Science, and Geosciences*'
+publication: 'Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science, and Geosciences'
 publication_short: ""
 
 abstract: Precipitation nowcasting refers to the prediction of rainfall with high spatiotemporal resolutions in a timely and accurate manner for the next 6 hours. The skillful and high-quality rainfall forecasts meet various operational needs in support of rainstorm monitoring, alerting or warning systems that are invaluable to weather services, and disaster risk reduction of high-impact weather or rainstorms for protecting people's lives. Conventional approaches that rely on expert knowledge are not easy to generalize and require considerable computational cost. Recently, deep learning (DL)-based methods for precipitation nowcasting have shown promise in overcoming these problems. In this chapter, we introduce current progress of DL-based methods for precipitation nowcasting. Firstly, we mathematically formulate precipitation nowcasting as a spatiotemporal sequence forecasting problem and introduce several general learning strategies. After that, we provide a comprehensive review of existing DL-based models and introduce a systematic benchmark for performance evaluation. Finally, future research directions on development of DL in precipitation nowcasting and meteorological forecasting applications are discussed.

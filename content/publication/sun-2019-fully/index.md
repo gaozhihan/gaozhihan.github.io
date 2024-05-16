@@ -28,8 +28,8 @@ publishDate: '2019-04-03T00:00:00Z'
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv preprint arXiv:1904.01749*'
-# publication_short:
+publication: 'arXiv preprint arXiv:1904.01749'
+publication_short: arXiv 2019
 
 abstract: This paper proposes a novel weakly-supervised semantic segmentation method using image-level label only. The class-specific activation maps from the well-trained classifiers are used as cues to train a segmentation network. The well-known defects of these cues are coarseness and incompleteness. We use super-pixel to refine them, and fuse the cues extracted from both a color image trained classifier and a gray image trained classifier to compensate for their incompleteness. The conditional random field is adapted to regulate the training process and to refine the outputs further. Besides initializing the segmentation network, the previously trained classifier is also used in the testing phase to suppress the non-existing classes. Experimental results on the PASCAL VOC 2012 dataset illustrate the effectiveness of our method.
 
