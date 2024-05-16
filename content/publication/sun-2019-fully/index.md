@@ -8,7 +8,7 @@ title: 'Fully Using Classifiers for Weakly Supervised Semantic Segmentation with
 authors:
 - Ting Sun
 - Lei Tai
-- Zhihan Gao
+- ZhihanGao
 - Ming Liu
 - Dit-Yan Yeung
 # Author notes (optional)

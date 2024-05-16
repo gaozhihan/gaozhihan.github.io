@@ -7,7 +7,7 @@ title: 'Face Hallucination Based on Neighbor Embedding via Illumination Adaptati
 authors:
 - Sijie Song
 - Yanghao Li
-- Zhihan Gao
+- ZhihanGao
 - Jiaying Liu
 
 # Author notes (optional)

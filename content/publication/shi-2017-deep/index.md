@@ -6,7 +6,7 @@ title: 'Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xingjian Shi
-  - Zhihan Gao
+  - ZhihanGao
   - Leonard Lausen
   - Hao Wang
   - Dit-Yan Yeung

@@ -4,7 +4,7 @@ authors:
 - Xuefeng Liu
 - Hongyi Yu
 - Qingqing Ji
-- Zhihan Gao
+- ZhihanGao
 - Shaofeng Ge
 - Jun Qiu
 - Zhongfan Liu
