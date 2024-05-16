@@ -1,6 +1,6 @@
 ---
 # Display name
-title: '**Zhihan Gao**'
+title: Zhihan Gao
 
 # Name pronunciation (optional)
 name_pronunciation: Gao Zhi Han
