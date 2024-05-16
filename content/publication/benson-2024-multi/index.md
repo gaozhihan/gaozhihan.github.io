@@ -11,7 +11,7 @@ authors:
   - Lazaro Alonso
   - Nuno Carvalhais
   - José Cortés
-  - Zhihan Gao
+  - **Zhihan Gao**
   - Nora Linscheid
   - Mélanie Weynants
   - Markus Reichstein
@@ -57,7 +57,7 @@ featured: false
 
 url_pdf: 'https://arxiv.org/pdf/2303.16198v2'
 url_code: 'https://github.com/vitusbenson/greenearthnet'
-url_dataset: 'https://github.com/vitusbenson/greenearthnet#greenearthnet-dataset-download'
+url_dataset: 'https://www.earthnet.tech'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
