@@ -11,7 +11,7 @@ authors:
   - Lazaro Alonso
   - Nuno Carvalhais
   - José Cortés
-  - admin
+  - ZhihanGao
   - Nora Linscheid
   - Mélanie Weynants
   - Markus Reichstein
